@@ -1,6 +1,6 @@
 <?php
 
-$conexion = mysqli_connect("localhost", "root", "", "login_register_db");
+$conexion = mysqli_connect("localhost", "myarriolab9", "mo7JGwAc", "proyectologinavanzado");
 
 /*/
 if ($conexion){
